@@ -84,5 +84,5 @@
     - repeat all code by yourself
     - copy html only when tutor says- copy code from his GitHub repo
     - make commits and push them on GitHub every day (I will check)
-    - last date to start: 14.02.2023.
+    - last date to start: 14.01.2023.
     - you have 7 days to complete this task, deadline 21.01.2023
