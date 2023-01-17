@@ -86,3 +86,6 @@
     - make commits and push them on GitHub every day (I will check)
     - last date to start: 14.01.2023.
     - you have 7 days to complete this task, deadline 21.01.2023
+    
+    
+Learning source: https://bootcamp.laravel.com
